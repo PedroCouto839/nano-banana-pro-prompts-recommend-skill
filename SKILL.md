@@ -116,7 +116,10 @@ If user's request is too broad, ask for specifics using AskUserQuestion:
 
 ### Step 3: Present Results
 
-**IMPORTANT: Recommend at most 3 prompts per request.** Choose the most relevant ones.
+**CRITICAL RULES:**
+1. **Recommend at most 3 prompts per request.** Choose the most relevant ones.
+2. **NEVER create custom/remix prompts at this stage.** Only present original templates from the library.
+3. **Use EXACT prompts from the JSON files.** Do not modify, combine, or generate new prompts.
 
 For each recommended prompt, provide in user's input language:
 
@@ -141,20 +144,26 @@ For each recommended prompt, provide in user's input language:
 
 ```markdown
 ---
-**Custom Prompt Generation**: Pick a style template you like (reply with 1/2/3), and I'll create a customized image prompt based on your content. Before generating, I may ask a few questions (e.g., gender, specific scene details) to ensure the image matches your needs.
+**Custom Prompt Generation**: These are style templates from our library. Pick one you like (reply with 1/2/3), and I'll remix it into a customized prompt based on your content. Before generating, I may ask a few questions (e.g., gender, specific scene details) to ensure the image matches your needs.
 ```
+
+**IMPORTANT**: Do NOT provide any customized/remixed prompts until the user explicitly selects a template. The customization happens in Step 5, not here.
 
 ### Step 4: Handle No Match
 
-If no suitable prompts found:
+If no suitable prompts found in ANY category file:
 1. Load `featured.json` completely
-2. Analyze patterns from featured examples
-3. Create a custom prompt based on:
+2. Present featured prompts as alternatives
+3. **Only if user agrees** to proceed without a matching template, then create a custom prompt based on:
    - Similar prompts in featured collection
    - User's specific requirements
    - Best practices from examples
 
+**NOTE**: Always try to find existing templates first. Custom prompt creation is a last resort, not the default.
+
 ### Step 5: Remix & Personalization (Content Illustration Mode Only)
+
+**TRIGGER**: Only proceed to this step AFTER user explicitly selects a template (e.g., "I choose 1", "Let's go with the second one", "Option 2").
 
 When user selects a prompt template in Content Illustration mode:
 
