@@ -1,5 +1,5 @@
 ---
-name: nano-banana-pro-prompts
+name: nano-banana-pro-prompts-recommend-skill
 description: |
   Recommend suitable prompts from 6000+ Nano Banana Pro image generation prompts based on user needs.
   Use this skill when users want to:
