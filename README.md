@@ -5,6 +5,8 @@
 [![Multi-language](https://img.shields.io/badge/Language-Multi--lingual-orange)]()
 
 > **Stop scrolling Twitter for image prompts!** Let Claude Code intelligently recommend from 6000+ curated image generation prompts based on your needs.
+>
+> [View Gallery →](https://youmind.com/nano-banana-pro-prompts)
 
 ![Demo](public/cover.png)
 
