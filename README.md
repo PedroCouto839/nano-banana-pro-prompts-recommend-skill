@@ -67,16 +67,7 @@ nano-banana-pro-prompts-recommend-skill/
 │   └── generate-references.ts   # Script to fetch and generate reference files
 ├── references/              # Auto-generated prompt data (JSON files)
 │   ├── featured.json        # Featured prompts (can be fully loaded)
-│   ├── profile-avatar.json
-│   ├── social-media-post.json
-│   ├── infographic-edu-visual.json
-│   ├── youtube-thumbnail.json
-│   ├── comic-storyboard.json
-│   ├── product-marketing.json
-│   ├── ecommerce-main-image.json
-│   ├── game-asset.json
-│   ├── poster-flyer.json
-│   ├── app-web-design.json
+│   ├── {category}.json      # Category files (auto-generated, see SKILL.md for list)
 │   └── others.json          # Uncategorized prompts
 └── .github/
     └── workflows/
