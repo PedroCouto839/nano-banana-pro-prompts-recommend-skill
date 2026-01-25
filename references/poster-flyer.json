@@ -18,6 +18,103 @@
     "needReferenceImages": false
   },
   {
+    "content": "​\"A vertical illustration in a luminous neon pointillism style featuring {argument name=\"subject\" default=\"[xxxxxxxx]\"}. The image is rendered entirely with thousands of tiny glowing dots, light particles, and connected nodes. Vibrant cyberpunk color palette (electric cyan, magenta, violet, and neon blue) glowing intensely against a deep, dark black background. High contrast, intricate dot-work details, futuristic, digital, and ethereal atmosphere.",
+    "title": "Neon Pointillism Cyberpunk Illustration",
+    "description": "A prompt for generating a vertical illustration in a luminous neon pointillism style. The image must be rendered entirely with tiny glowing dots and nodes, using a vibrant cyberpunk palette (cyan, magenta, violet) against a deep black background, emphasizing high contrast and futuristic, ethereal dot-work details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769322278306_vtwx5q_G_d5gg-WwAAhRBa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A towering winter creature emerges from a blizzard shrouded forest, antler like ice horns branching from its skull, fur crusted with frost and drifting snow. Glowing pale light blue eyes cut through the whiteout. Breath crystallizes midair. \n\nCinematic wide shot, low angle, heavy snowfall, cold blue-grey palette, ultra detailed texture, dramatic rim light, dark fantasy realism.",
+    "title": "Dark Fantasy Winter Creature Emerging from a Blizzard",
+    "description": "A cinematic image generation prompt for a dark fantasy creature. It describes a towering winter entity with ice horns, frost-crusted fur, and glowing blue eyes, set against a heavy snowfall and a cold blue-grey palette. The composition is specified as a cinematic wide shot with a low angle and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769322297572_j4dp4w_G_dmeMZaMAAQlz-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A dramatic ultra-realistic portrait of a woman shown in extreme close-up, only half of her face visible. Her skin is painted with bold tribal markings in deep red, navy blue, and muted earth tones, layered with rough textures and symbolic patterns. One striking light-blue eye is sharply in focus, conveying strength, resilience, and quiet intensity. She wears weathered fabric and woven textiles around her head, with frayed edges and smallwooden beads, suggesting ancient or nomadic culture. Cinematic lighting with soft shadows, shallow depth of field, dark neutral background, hyper-detailed skin texture, painterly realism, 8K quality, editorial poster style, moody and powerful atmosphere.",
+    "title": "Ultra-Realistic Portrait with Tribal Markings and Painterly Realism",
+    "description": "A prompt for generating a dramatic, ultra-realistic portrait in extreme close-up, showing only half of a woman's face. Her skin is painted with bold tribal markings in deep colors, and the image emphasizes hyper-detailed skin texture, cinematic lighting, and a painterly realism style, suggesting an ancient or nomadic culture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769322305146_rnlm52_G_cN5J1bwAAXBgK.jpg",
+      "https://cms-assets.youmind.com/media/1769322305140_ob75y6_G_cN5UVawAAl3Ag.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "use the uploaded photo as the exact identity reference. keep the same person, same face, same facial features, same proportions and natural expression, create a photorealistic cinematic triptych portrait (three-frame composition in one image).\n\nscene: night city, bridge over a busy road, moving cars, glowing street lights, evening sky, city skyline in the background. atmosphere: freedom, motion, youth, urban romance, feeling of wind and road. frame 1 (top): wide cinematic shot - the person standing on a bridge above a busy road, slight motion blur from head movement, city lights and cars below, strong urban night mood. frame 2 (middle): medium shot person leaning on the bridge railing, looking up at the sky, relaxed confident pose, cars and headlights glowing behind. frame 3 (bottom): close-up emotional portrait wind in hair, city lights in bokeh behind, thoughtful and dreamy expression. style: real photography, cinematic lifestyle portrait, urban fashion photography. lighting, natural city night lighting, street lamps, car headlights, soft glow on skin. camera: full-frame dslr, 85mm lens look, shallow depth of field. color grading: warm city lights mixed with cool blue night tones, film-style mood. ultra photorealistic, natural skin texture, real candid moment, no illustration, no cgi, no plastic skin, no text, no logos, no watermark.",
+    "title": "Cinematic Triptych Portrait in a Night City Setting",
+    "description": "A complex prompt requiring the AI to use an uploaded photo for exact identity reference and generate a photorealistic cinematic triptych (three-frame composition in one image). The scene is an urban night setting on a bridge, capturing the subject in three different shots (wide, medium, close-up) to convey a mood of freedom, motion, and urban romance.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769322282428_td6dsa_G_cFKuwXEAEe9OJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A single {argument name=\"object\" default=\"[OBJECT]\"} suspended in space, frozen at the moment of ignition. Flames and smoke exist as solid sculptural forms, fully detailed {argument name=\"fire architecture\" default=\"[FIRE ARCHITECTURE / SMOKE STRUCTURES / HEAT PATTERNS]\"} rendered in the object's own transformed material. The combustion reveals [CHAR LAYERS, ASH STRUCTURES, EMBER NETWORKS, HEAT-CRACKED INTERIORS] with clear thermodynamic logic. Flames contain [INTERNAL STRIATIONS, TEMPERATURE GRADIENTS VISIBLE AS COLOR SHIFTS, OXYGEN FLOW PATTERNS]. Material transformation documented: [BLACKENED EDGES, CURLING SURFACES, CRYSTALLIZED SUGAR, CARAMELIZED PROTEINS]. Palette transitions from [ORIGINAL MATERIAL TONES] through [CHAR BLACKS] to [EMBER ORANGES AND ASH GREYS]. Isolated object, dramatic chiaroscuro lighting from the frozen flame itself. Destruction as architecture. Ultra-high resolution, violence made beautiful, forensic photography meets fine art.",
+    "title": "Combustion Freeze: Object Frozen at Ignition",
+    "description": "A highly descriptive, artistic prompt for generating an image of an object suspended in space, frozen at the moment of ignition. It details the 'Combustion Freeze' effect, where flames and smoke are rendered as solid, sculptural forms, revealing internal structures like char layers and ember networks with forensic detail. The prompt emphasizes dramatic chiaroscuro lighting and ultra-high resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769322298721_53io4w_G_ZgT6XXoAAYqfN.jpg",
+      "https://cms-assets.youmind.com/media/1769322298792_l1styd_G_Zged3W4AAwjYs.jpg",
+      "https://cms-assets.youmind.com/media/1769322299366_ryqyfg_G_ZgoJZXEAE8I3k.jpg",
+      "https://cms-assets.youmind.com/media/1769322300266_26iey4_G_ZhgN2WoAE-Yqk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"vibe_title_en\": \"Porcelain Breath\",\n  \"master_prompt\": \"A hyper-realistic, surreal macro portrait of The Protagonist as 'The Melancholic Prodigy,' captured in a dense, cluttered Porcelain Restoration Workshop. The frame is an extreme close-up, focusing intensely on one eye and the cheekbone. The subject's face is partially entrapped in a flowing, semi-transparent barrier of ultra-fine white sculpting mesh and silk tulle (Practical Effect), mimicking the fluid, sculptural structure of smoke but rendered with distinct, tactile fabric weave. The fabric presses gently against the skin, revealing hyper-detailed pores and fine clay dust clinging to the eyelashes. The lighting is moody, warm, and directional (Rembrandt style), slicing through a heavy atmosphere of airborne ceramic dust and floating lint. The background, though heavily blurred due to the macro lens, implies a chaotic, lived-in space filled with stacks of broken white ceramics, antique calipers, and restoration diagrams. Shot on a Hasselblad H6D-100c with a 120mm Macro lens, creating a razor-thin depth of field that isolates the texture of the mesh against the iris.\",\n  \"meta\": {\n    \"intent\": \"Cinematic Surrealism\",\n    \"priorities\": \"Texture, Emotion, Lighting\",\n    \"device_profile\": \"High-End Desktop / Large Format Print\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"Extreme Close-Up (Macro)\",\n    \"layout\": \"Off-center eye focus, negative space filled by mesh texture\",\n    \"camera_angle\": \"Eye Level, slightly intimate/intrusive\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Melancholic Prodigy\",\n    \"demographics\": \"Ageless, ethnically ambiguous\",\n    \"face\": \"Neutral expression with visible sorrow, hyper-realistic skin texture, fine dust on skin\",\n    \"hair\": \"Obscured by mesh/veil, hints of texture visible underneath\",\n    \"body\": \"Only facial features visible\",\n    \"expression\": \"Sorrowful focus, a deep exhale frozen in time, intense gaze through the fabric\",\n    \"pose\": \"Head slightly tilted back, resisting the flow of the fabric\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Sculpting Mesh / Veil\",\n        \"material\": \"Ultra-fine silk tulle and gauze\",\n        \"color\": \"Translucent White\",\n        \"fit\": \"Flowing, wrapping tightly around facial contours\"\n      }\n    ],\n    \"accessories\": []\n  },\n  \"environment\": {\n    \"setting\": \"Porcelain Restoration Workshop\",\n    \"surfaces\": \"Airborne dust, ceramic shards (bokeh), fabric weave\",\n    \"depth\": \"Extremely shallow macro depth of field\",\n    \"atmosphere\": \"Dusty, claustrophobic, warm, artistic\",\n    \"lens_interaction\": \"Sharp focus on the eye mesh, heavy blur elsewhere\"\n  },\n  \"lighting\": {\n    \"key\": \"Warm Rembrandt light beam\",\n    \"fill\": \"Soft bounce from white ceramics\",\n    \"rim\": \"Subtle highlight on the fabric edges\",\n    \"shadows\": \"Deep, rich shadows in facial crevices\",\n    \"color_temperature\": \"",
+    "title": "Surreal Macro Portrait with Porcelain Restoration Theme",
+    "description": "An extremely detailed, structured prompt for generating a hyper-realistic, surreal macro portrait focusing intensely on one eye and cheekbone. The subject's face is partially covered by a flowing, fine white sculpting mesh/tulle, mimicking smoke. The scene is a cluttered Porcelain Restoration Workshop, utilizing dramatic Rembrandt lighting and a razor-thin depth of field to emphasize texture and mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769322293148_zu9pz4_G_bVPM-WAAAY5Td.jpg",
+      "https://cms-assets.youmind.com/media/1769322293187_ajz5yx_G_bVPK0WIAAV31m.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"prompt_structure\": {\n    \"subject_description\": {\n      \"main_character\": \"Global pop superstar female singer standing center stage\",\n      \"appearance\": \"Long platinum blonde hair in loose glam waves, pristine makeup with defined contour and glossy lips, confident expression\",\n      \"pose\": \"Power stance, full body shot, holding a diamond-encrusted silver microphone with both hands\"\n    },\n    \"attire_details\": {\n      \"outfit\": \"Monochromatic premium {argument name=\"outfit color\" default=\"beige\"} athleisure set\",\n      \"top\": \"Cropped zip-up hoodie with structured collar\",\n      \"bottoms\": \"Matching high-waisted wide-leg sweatpants with center seam detailing\",\n      \"footwear\": \"Chunky white platform sneakers\",\n      \"accessories\": \"Subtle diamond rings, sparkling drop earrings\"\n    },\n    \"environment_context\": {\n      \"location\": \"Massive indoor stadium arena concert\",\n      \"background\": \"Vast audience in semi-darkness holding up thousands of illuminated phone flashlights creating a starlight bokeh effect\",\n      \"stage_elements\": \"Large LED screens displaying abstract geometric visuals in purple and violet hues, geometric stage floor design\"\n    },\n    \"lighting_atmosphere\": {\n      \"lighting_type\": \"High-production concert lighting, cinematic backlighting\",\n      \"color_palette\": \"Electric violet, deep magenta, soft warm beige, cold white stage beams\",\n      \"mood\": \"Electric, energetic, euphoric, grand scale\"\n    },\n    \"technical_specifications\": {\n      \"quality\": \"Ultra-realistic, UHD, 8k resolution, photorealistic masterpiece\",\n      \"camera_settings\": \"Low angle shot looking up, sharp focus on subject, depth of field blurring the distant crowd\",\n      \"texture\": \"Detailed fabric texture on tracksuit, skin texture, metallic glint on microphone\"\n    }\n  },\n  \"generation_parameters\": {\n    \"aspect_ratio\": \"9:16\",\n    \"orientation\": \"Vertical (Long)\",\n    \"style_preset\": \"Aesthetic Concert Photography\"\n  }\n}",
+    "title": "Pop Star Concert Photography",
+    "description": "A structured JSON prompt for generating an ultra-realistic, high-energy concert photograph of a female pop superstar (Ariana Grande or Tate McRae) on a massive stage, wearing premium athleisure wear, with the audience creating a starlight bokeh effect in the background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769322260699_yem4k0_G_auxJqWcAA02ZD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "4K Ultra-realistic Dramatic studio portrait of a young woman messy hair over the eye (from uploaded image), centered, facing the camera with an intense stare. High-contrast, cinematic lighting wide angle. A single, intense horizontal band of vivid {argument name=\"light color\" default=\"red\"} light illuminates only the eyes and bridge of the nose; the rest of the subject and hair are plunged into deep, pure shadow/silhouette. Plain, smooth mid-tone gray background. Moody, minimalist, ominous aesthetic.",
+    "title": "Dramatic Studio Portrait with Red Light Accent",
+    "description": "A prompt for generating an ultra-realistic, high-contrast studio portrait of a young woman. The key feature is a single, intense horizontal band of vivid red light that illuminates only the eyes and bridge of the nose, plunging the rest of the subject into deep shadow, creating a moody, minimalist, and ominous aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769322286671_5jx3ay_G_aYAZLasAI3Ha5.jpg",
+      "https://cms-assets.youmind.com/media/1769322286831_q1buun_G_aYAY7aEAAwH2J.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Editorial portrait from the attached reference photo, photorealistic. Use uploaded selfie as ONLY face reference. Identity lock: exact likeness, facial geometry/proportions, natural skin texture. No beautification. Keep clothing style, color, material, and fit identical to the reference. Medium close-up (face and shoulders), low angle looking up (heroic/dominant perspective), sharp focus on face/eyes.Serious, intense, focused expression, gaze directed upward and away from camera (beyond the frame). Dramatic saturated studio lighting, high-contrast chiaroscuro with deep shadows, vibrant oranges and deep reds palette, strong rim light creating a halo separation. Solid studio backdrop, rich orange-red smooth gradient, pattern-free, hot radiant atmosphere. High skin texture fidelity (pores visible), 8k, portrait aspect ratio, cinematic lighting, 4:5.",
+    "title": "High-Contrast Editorial Portrait with Identity Lock",
+    "description": "An image generation prompt for an editorial portrait that strictly enforces identity lock based on an uploaded selfie, ensuring exact likeness and natural skin texture without beautification. The prompt specifies a medium close-up, low-angle, high-contrast chiaroscuro lighting, and a vibrant orange/red palette, aiming for a serious, intense, and cinematic look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769322301809_vgm1zm_G_aIcJkboAARme9.jpg",
+      "https://cms-assets.youmind.com/media/1769322301783_vzu6t5_G_aIcDubAAUCglZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "In the style of the cover of the women's fashion magazine CanCam",
+    "title": "Nano Banana Pro Prompt for Yoga Class Announcement Poster",
+    "description": "A prompt used with Nano Banana Pro to create an announcement poster for a workplace yoga class. The prompt instructed the AI to generate an image in the style of a specific Japanese fashion magazine cover.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769322354793_vwwz3t_G_Y_jFibAAELwjE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "A hyper-realistic cinematic close-up portrait of a female winter sports athlete, side profile, wearing snow goggles and a helmet, intense focused expression. Frost, ice crystals, and snow particles on the goggles and face, cold breath visible. {argument name=\"color grading\" default=\"Blue-teal and orange\"} cinematic color grading, dramatic soft lighting with shallow depth of field. Ultra-detailed skin texture, sharp eye focus reflected in the goggles, moody winter atmosphere, snowfall inforeground, high contrast, professional sports poster look, 8K, HDR, photorealistic, cinematic photography, extreme detail, studio quality.",
     "title": "Cinematic Close-up Portrait Prompt of Winter Sports Athlete",
     "description": "A prompt for Nano Banana Pro designed to generate a hyper-realistic cinematic close-up portrait of a female winter sports athlete. The prompt specifies the subject wearing snow goggles and a helmet, with frost and ice crystals visible, using a dramatic blue-teal and orange color grading, and emphasizing extreme detail, sharp focus, and a professional sports poster look.",

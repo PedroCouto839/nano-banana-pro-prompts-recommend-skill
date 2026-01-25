@@ -1,5 +1,26 @@
 [
   {
+    "content": "Illustrate {argument name=\"subject\" default=\"[SUBJECT]\"} using thin, continuous black line art on a soft off-white background. The lines should be fluid, confident, and minimal, with no shading or fill except for one subtle accent color used sparingly.",
+    "title": "Minimalist Continuous Line Art Illustration",
+    "description": "A prompt for generating minimalist illustrations using thin, continuous black line art. It specifies a soft off-white background, fluid and minimal lines with no shading or fill, except for one subtle accent color used sparingly, ideal for elegant design work.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769322294255_6fierq_G_bLh28aUAEMi6c.jpg",
+      "https://cms-assets.youmind.com/media/1769322294347_5fhi51_G_bLh29aMAAXUaz.jpg",
+      "https://cms-assets.youmind.com/media/1769322294547_jk62pm_G_bLh5SagAAmfMY.jpg",
+      "https://cms-assets.youmind.com/media/1769322295448_2ov55l_G_bLh8HbYAAjtnP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Recreating a copy of Airbnb using a self-made Image-to-Text model to generate a prompt for Nano Banana Pro.",
+    "title": "Recreating Airbnb UI with Image-to-Text and Nano Banana Pro",
+    "description": "A demonstration of using an Image-to-Text model to convert a screenshot of the Airbnb UI into a prompt, which is then used by Nano Banana Pro to recreate the design. The user notes the high accuracy and potential for converting design prompts into web implementations using React and Tailwind.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769322356399_2ebt6p_G_aFiaDXAAAdI1n.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "Curated brand moodboard for a modern tech brand.\nBalanced grid layout, tactile textures,\neditorial photography references,\nmuted premium color palette,\ntypography-forward composition,\ncrafted like a senior brand designer’s internal deck.",
     "title": "Designer-Grade Brand Moodboard Generation Prompt",
     "description": "A simple, high-level prompt for Nano Banana Pro designed to generate a sophisticated, designer-grade brand moodboard. It focuses on abstract concepts like grid layout, tactile textures, editorial photography, and a muted premium color palette, aiming for a professional internal deck aesthetic.",
