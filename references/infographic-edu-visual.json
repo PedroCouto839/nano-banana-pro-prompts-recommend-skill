@@ -51,6 +51,28 @@
     "needReferenceImages": false
   },
   {
+    "content": "Slide generation using Nano Banana",
+    "title": "Nano Banana Slide Generation Discussion",
+    "description": "This tweet discusses using Nano Banana for generating slides, highlighting Manus's strength in combining powerful research with slide creation. It notes that the text in the slides is editable, making it potentially more convenient than using Gemini or NotebookLM.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769408678278_5qnjnw_G_gCcWoXoAADhgc.jpg",
+      "https://cms-assets.youmind.com/media/1769408678615_a4weqp_G_gCcW3WQAAQ2Gc.jpg",
+      "https://cms-assets.youmind.com/media/1769408679917_q4l08w_G_gCcTgXwAAAyFi.jpg",
+      "https://cms-assets.youmind.com/media/1769408680517_yxbwh4_G_gCcVKWUAABNVt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Design a feature page for a fashion magazine read by beautiful Minato-ku women. The content should be systematic, constructive, and easy to understand. Include icons, photos, graphs, diagrams, and handwritten pop-ups if necessary.",
+    "title": "Infographic for Minato-ku Women's Fashion Magazine",
+    "description": "A prompt to generate an infographic or feature page design for a fashion magazine targeting 'Minato-ku women' (implying a sophisticated, high-end audience). The content should be systematic and easy to understand, utilizing icons, photos, graphs, diagrams, and handwritten pop-ups.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769408676703_580d9h_G_d-Lh1bMAAyEZf.jpg",
+      "https://cms-assets.youmind.com/media/1769408677599_gk25u5_G_d-Ln1bwAAK54L.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Motion Prompt: The burger start to round spin while ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, with no extra effects.\n\nIMAGE 1 - Ultra-realistic studio food photography of a freshly prepared {argument name=\"burger type\" default=\"vegetarian\"} burger, centered in frame. A soft sesame seed bun on top, layered with ripe red tomato slices, melted cheddar cheese, a thick grilled veg patty with visible vegetables (corn, peas, carrots), crisp green lettuce, and a soft bottom bun. Perfectly stacked and symmetrical. Neutral light grey studio background with subtle texture, soft diffused lighting, gentle shadows beneath the burger, high sharpness and natural colors. Premium fast-food commercial style, realistic textures, glossy highlights on cheese and bun, shallow depth of field, ultra-high resolution, clean composition, no text, no labels, no hands, no props, no watermark.\n\nIMAGE 2 - Exploded view of the same veg burger, presented as a clean, commercial recipe-style breakdown.\nExactly five ingredients, separated and arranged vertically from top to bottom, evenly spaced and perfectly aligned.\nIngredient order (top → bottom):\nFresh tomato slices — 30 g\nCheddar cheese slice — 25 g\nGrilled veg patty — 90 g\nCrisp lettuce — 20 g\nSoft sesame burger bun — 80 g (bottom base)\nAdd clear infographic-style annotations for each ingredient with exact weights.\nMinimal, instructional, commercial style on a light neutral background.",
     "title": "Ultra-realistic Commercial Veg Burger Photography and Exploded View",
     "description": "A dual-prompt entry for food photography. The first prompt generates an ultra-realistic, perfectly stacked commercial image of a vegetarian burger. The second prompt generates an exploded, infographic-style view of the burger's five ingredients, complete with specific weights, designed for commercial recipe breakdown. It also includes a motion prompt for a video of the burger spinning and separating.",

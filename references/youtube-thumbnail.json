@@ -1,5 +1,23 @@
 [
   {
+    "content": "Today's theme is Let's Gargle (English Version)",
+    "title": "Four-Panel Comic Prompt: Gargle (English Version)",
+    "description": "This is a prompt used to generate a four-panel comic strip using Nano Banana Pro, centered around the theme of 'Gargle' (English version).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769408683821_4imddt_G9ypjgTb0AA18qM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Please learn the best practices for nano banana pro prompts. I want to create keyframe still images when executing the following video generation prompt. Please think of and display 5 cuts worth of prompts.\n(Paste video generation prompt here. See reply 3)",
+    "title": "Grok Instruction for Generating Nano Banana Pro Image Prompts",
+    "description": "This is an instruction given to the Grok LLM to generate a set of five keyframe image prompts suitable for Nano Banana Pro, based on an existing video generation prompt (which is referenced but not included here). This is a meta-prompt for prompt engineering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769408676181_lxy1wb_G_eJkUTWUAAG6Zw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "I tried creating a \"Weekly Magazine\" style using the magazine cover prompt",
     "title": "Magazine Cover Prompt using Nano Banana Extension",
     "description": "A user demonstrates using a Chrome extension for Nano Banana to easily access various prompts, including a 'magazine cover' prompt, which they used to create a 'Weekly Magazine' style image, suggesting its utility for social media design.",

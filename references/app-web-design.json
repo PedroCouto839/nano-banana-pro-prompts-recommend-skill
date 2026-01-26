@@ -1,5 +1,33 @@
 [
   {
+    "content": "First-person perspective, standing in a brightly lit supermarket aisle. A realistic human hand is holding a bottle of Fanta soda, close to the camera.\nThe bright orange drink in its iconic branded bottle is surrounded by a multi-layered holographic Augmented Reality interface, which displays nutritional data including calories, sugar content, caffeine content, freshness, shelf life, and refreshing recipes and cocktails recommended based on Fanta.\nThe user interface elements smoothly move and rearrange based on the viewer's line of sight, as if dynamically responding to the user's focus of attention.\nOn the edge of the left field of view, a vertical translucent shopping list is visible, listing checked items, with Fanta highlighted as the currently selected item.\nUltra-realistic mixed reality, clean futuristic augmented reality design, glass-textured user interface panels, soft ambient light, realistic light and shadow effects, natural depth of field, immersive first-person interface, showcasing next-generation retail technology.",
+    "title": "First-Person AR Fanta Soda Experience",
+    "description": "A detailed, complex prompt for generating a hyper-realistic, first-person perspective image of holding a Fanta soda bottle in a supermarket aisle, overlaid with a futuristic, holographic Augmented Reality interface displaying nutritional and recipe data.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769408664361_w4l478_G_jnn3VWUAAsV3F.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Subtle brand texture visual.\nFine-grain material feel, soft lighting,\nneutral tones,\nminimal pattern repetition,\ndesigned to add depth without distraction,\nrefined and understated aesthetic.",
+    "title": "Subtle Brand Texture Visual Prompt",
+    "description": "A concise prompt for generating a subtle brand texture visual. It focuses on fine-grain material feel, soft lighting, neutral tones, and minimal pattern repetition, designed to add depth without distracting from the main subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769408693803_cwrtxw_G_dJLRsXcAEhlXw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Design a feature page for a fashion magazine read by beautiful Minato-ku women. The content should be systematic, constructive, and easy to understand. Include icons, photos, graphs, diagrams, and handwritten pop-ups if necessary.",
+    "title": "Infographic for Minato-ku Women's Fashion Magazine",
+    "description": "A prompt to generate an infographic or feature page design for a fashion magazine targeting 'Minato-ku women' (implying a sophisticated, high-end audience). The content should be systematic and easy to understand, utilizing icons, photos, graphs, diagrams, and handwritten pop-ups.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769408676703_580d9h_G_d-Lh1bMAAyEZf.jpg",
+      "https://cms-assets.youmind.com/media/1769408677599_gk25u5_G_d-Ln1bwAAK54L.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Illustrate {argument name=\"subject\" default=\"[SUBJECT]\"} using thin, continuous black line art on a soft off-white background. The lines should be fluid, confident, and minimal, with no shading or fill except for one subtle accent color used sparingly.",
     "title": "Minimalist Continuous Line Art Illustration",
     "description": "A prompt for generating minimalist illustrations using thin, continuous black line art. It specifies a soft off-white background, fluid and minimal lines with no shading or fill, except for one subtle accent color used sparingly, ideal for elegant design work.",

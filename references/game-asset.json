@@ -1,5 +1,23 @@
 [
   {
+    "content": "LEGO mountain flood rescue scene, torrential rain causing river overflow in a LEGO mountain village, rescue boats and ropes used by LEGO firefighters, houses perched on slopes surrounded by muddy floodwater, misty mountains in background, dramatic cinematic lighting, intense LEGO disaster realism --ar 3:4",
+    "title": "LEGO Mountain Flood Rescue Scene Prompt",
+    "description": "A prompt for generating a dramatic, cinematic image of a LEGO mountain village disaster scene. The scene involves torrential rain, river overflow, LEGO firefighters using rescue boats and ropes, houses on slopes, and misty mountains in the background, emphasizing intense realism and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769408657745_qrgt94_G_hyJtRbIAELZNz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Using the uploaded face image as the exact facial reference, create a stylized 3D animated female photographer character, Pixar–Disney style, soft cinematic lighting. A young woman with short curly brown hair, big expressive eyes, round glasses, and a calm confident expression. She is standing with arms crossed, a vintage analog camera hanging around her neck. Wearing a cream button-up shirt with rolled sleeves and high-waisted olive green trousers.\nThe background is a cozy vintage photography studio filled with old cameras, film rolls, photo prints pinned on the wall, wooden tables, and warm desk lamps. Retro aesthetic, nostalgic mood, warm tones, shallow depth of field, ultra-detailed textures, soft shadows, highly polished 3D render, studio quality, cinematic composition, 4k, portrait orientation.",
+    "title": "Stylized 3D Animated Female Photographer Character (Pixar Style)",
+    "description": "A detailed prompt for creating a stylized 3D animated female photographer character in the Pixar–Disney style, using an uploaded face image for reference. The character has short curly brown hair, round glasses, and is standing in a cozy vintage photography studio filled with retro props and warm lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769408691310_rh6g0o_G_fwh6TbIAAsyQM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "A towering winter creature emerges from a blizzard shrouded forest, antler like ice horns branching from its skull, fur crusted with frost and drifting snow. Glowing pale light blue eyes cut through the whiteout. Breath crystallizes midair. \n\nCinematic wide shot, low angle, heavy snowfall, cold blue-grey palette, ultra detailed texture, dramatic rim light, dark fantasy realism.",
     "title": "Dark Fantasy Winter Creature Emerging from a Blizzard",
     "description": "A cinematic image generation prompt for a dark fantasy creature. It describes a towering winter entity with ice horns, frost-crusted fur, and glowing blue eyes, set against a heavy snowfall and a cold blue-grey palette. The composition is specified as a cinematic wide shot with a low angle and dramatic lighting.",

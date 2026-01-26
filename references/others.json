@@ -12,6 +12,44 @@
     "needReferenceImages": true
   },
   {
+    "content": "Make the previous image into a single subject like the next image",
+    "title": "Image Transformation Instruction",
+    "description": "A user instructs nano banana to transform a previous image into a new one where the subject is a single object.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769408680906_zvoltu_G_gkv7CasAAFduk.jpg",
+      "https://cms-assets.youmind.com/media/1769408681354_3gzmko_G_gkwalbkAEXluZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "I wonder if they used nanobanana 🍌\nI want to try to reproduce the prompt…",
+    "title": "Attempting to Recreate a BeautyPlus Prompt",
+    "description": "A user wonders if the image transformation shown in a BeautyPlus example was created using nanobanana and expresses interest in recreating the prompt that led to the 'before and after' result.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769408680077_qtxgdy_G_f4WlzboAAOiFM.jpg",
+      "https://cms-assets.youmind.com/media/1769408681355_nycusg_G_f4YtNaQAEUO6b.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Beautiful even after falling into darkness. Resting wings in silence. Convert to a fallen angel.",
+    "title": "Fallen Angel Conversion",
+    "description": "A prompt designed to convert an image into the style of a fallen angel, emphasizing dark beauty and a moment of rest in silence. The prompt is found in the ALT text of the tweet, generated using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769408677601_novvvq_G_f1K2MbcAAYMo4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Listen, absolutely! Don't mix in anything! Anything different!!",
+    "title": "Instructional Prompt for Strict Image Generation",
+    "description": "A user expresses frustration with Nano Banana adding unwanted elements when trying to take shortcuts, concluding that it's necessary to give extremely strict instructions to prevent the AI from mixing in anything different.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769408683663_x18smc_G_fGWsMbsAAW-9m.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "{\n  \"image_analysis_prompt\": {\n    \"subject_details\": {\n      \"identity_reference\": \"{argument name=\"celebrity name\" default=\"Alexandra Daddario\"}\",\n      \"demographics\": \"Female, young adult, Caucasian\",\n      \"appearance\": {\n        \"hair\": \"Black, shoulder-length, loose waves, center part\",\n        \"eyes\": \"Blue, intense direct gaze\",\n        \"expression\": \"Serious, sultry, confident, neutral\",\n        \"skin\": \"Light tan, natural texture\"\n      }\n    },\n    \"attire_and_accessories\": {\n      \"clothing\": {\n        \"item\": \"Grecian-style draped gown\",\n        \"color\": \"Dusty rose / Deep pink\",\n        \"style\": \"Deep plunging V-neckline, sleeveless, open back\",\n        \"texture\": \"Wet fabric, clinging to skin, silk or chiffon material\"\n      },\n      \"jewelry\": [\n        \"Gold coiled snake arm cuff on upper right arm\",\n        \"Layered delicate gold necklaces (choker and drop styles)\",\n        \"Dangling diamond/crystal strand earrings\"\n      ]\n    },\n    \"environment_and_setting\": {\n      \"location\": \"Ancient Greek ruins / Parthenon-style temple\",\n      \"foreground\": \"Reflective water basin or pool\",\n      \"background\": \"Large beige stone columns, architectural ruins\",\n      \"atmosphere\": \"Historic, mythic, serene, Mediterranean\"\n    },\n    \"pose_and_action\": {\n      \"body_position\": \"Seated in water, waist-up visible\",\n      \"orientation\": \"Body angled slightly to the side, face turned forward\",\n      \"arms\": \"Relaxed at sides, one arm visible with cuff\",\n      \"interaction\": \"Sitting in a shallow pool, dress submerged in water\"\n    },\n    \"technical_specs\": {\n      \"lighting\": {\n        \"type\": \"Natural daylight\",\n        \"quality\": \"Soft, diffused sun, high-key\",\n        \"direction\": \"Front-lit with slight side bias\"\n      },\n      \"camera\": {\n        \"shot_type\": \"Medium shot (waist up)\",\n        \"angle\": \"Eye-level\",\n        \"focus\": \"Sharp focus on face/eyes\",\n        \"depth_of_field\": \"Shallow (bokeh background columns)\"\n      },\n      \"style\": \"Cinematic, high-fashion photography, editorial, Vogue style\"\n    }\n  }\n}",
     "title": "Vogue Style Photoshoot at Greek Ruins",
     "description": "A highly detailed, structured JSON prompt designed for generating a cinematic, high-fashion editorial image in the style of Vogue, featuring a celebrity (Alexandra Daddario) in a Grecian-style gown at ancient Greek ruins.",

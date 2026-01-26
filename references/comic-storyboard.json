@@ -1,5 +1,23 @@
 [
   {
+    "content": "Horizontal 16:9 cinematic continuous storyboard, realistic documentary style. Reference Image 1 for character spatial relationship, position, and style; Reference Image 2 for character appearance. This prompt includes four specific frame instructions:\n\nPanel 1 (Side Profile Close-up): Focus on the facial features (platinum blonde hair, green eyes) of the character from Image 2 reading in bed, referencing Image 1. Apply background blur and retain the cool-toned lighting from Image 1.\n\nPanel 2 (Reading Back View): Recreate the action of “lying on the bed reading” from Image 1, but use the clothing of the character from Image 2, emphasizing the {argument name=\"weather\" default=\"snowy scene\"} outside the window.\n\nPanel 3 (Medium Shot Low Angle): Reference Image 1 for the action position. This is a highly dramatic perspective, reflecting the narrowness of the room and the spatial relationship of the character, highlighting details of the bookshelf and poster wall.\n\nPanel 4 (Full View/Fisheye): Add a wide-angle shot (referencing the perspective of Image 1) to establish the overall environment and set the mood of “staying home on a snowy day.”",
+    "title": "16:9 Cinematic Storyboard from References",
+    "description": "A Chinese prompt for generating a 16:9 cinematic storyboard (four continuous panels) in a realistic documentary style. It uses two reference images: one for composition, relationship, and style, and another for the character's appearance, detailing specific camera angles and scene elements for each panel, such as a snowy outdoor view and a narrow room perspective.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769408670971_1d6zp9_G_gwXDgXoAAdvUC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Please learn the best practices for nano banana pro prompts. I want to create keyframe still images when executing the following video generation prompt. Please think of and display 5 cuts worth of prompts.\n(Paste video generation prompt here. See reply 3)",
+    "title": "Grok Instruction for Generating Nano Banana Pro Image Prompts",
+    "description": "This is an instruction given to the Grok LLM to generate a set of five keyframe image prompts suitable for Nano Banana Pro, based on an existing video generation prompt (which is referenced but not included here). This is a meta-prompt for prompt engineering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769408676181_lxy1wb_G_eJkUTWUAAG6Zw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "dvd screengrab of a Korean horror movie from 2001. The proportions are all wrong.\n\nOminous domestic dinner scene involving a giant man. Very dark.\n\nNo text, no DVD overlay",
     "title": "DVD Screengrab of Ominous Korean Horror Movie",
     "description": "A short, specific prompt requesting an image in the style of a DVD screengrab from a 2001 Korean horror movie. The scene is an ominous, very dark domestic dinner involving a giant man, with the explicit instruction that the proportions should be 'all wrong' and no text overlays should be visible.",
@@ -7,15 +25,6 @@
       "https://cms-assets.youmind.com/media/1769322313405_9df6ej_G_cTOdnXAAEEVnQ.jpg"
     ],
     "needReferenceImages": false
-  },
-  {
-    "content": "A clean 3×3 storyboard grid with nine equal sized panels on 4:5 ratio.\n\nUse the reference image as the base product reference. Keep the same product, packaging design, branding, materials, colors, proportions and overall identity across all nine panels exactly as the reference. The product must remain clearly recognizable in every frame. The label, logo and proportions must stay exactly the same.\n\nThis storyboard is a high-end designer mockup presentation for a branding portfolio. The focus is on form, composition, materiality and visual rhythm rather than realism or lifestyle narrative. The overall look should feel curated, editorial and design-driven.\n\n**FRAME 1:**\nFront-facing hero shot of the {argument name=\"product name\" default=\"Moutai Baijiu\"} in a clean studio setup. Neutral background, balanced composition, calm and confident presentation showing the complete product with {argument name=\"detail 1\" default=\"bottle body relief\"} and {argument name=\"detail 2\" default=\"label hot stamping\"}.\n\n**FRAME 2:**\nClose-up shot with the focus centered on the {argument name=\"product name\" default=\"Moutai Baijiu\"}'s {argument name=\"detail 2\" default=\"label hot stamping\"}. Focusing on glass, ceramic textures, precision craftsmanship, and liquid transparency.\n\n**FRAME 3:**\nShows the {argument name=\"product name\" default=\"Moutai Baijiu\"} placed in a Chinese dining table environment. Studio setting inspired by high-end elegant aesthetics - clean lines, natural materials, soft lighting, creating an authentic brand atmosphere.\n\n**FRAME 4:**\nProduct shown in use or interaction on a neutral studio background. Hands in natural gesture elegantly pouring the liquor, capturing the human-product connection, the look matches the high-end elegant aesthetic.\n\n**FRAME 5:**\nIsometric composition showing multiple {argument name=\"product name\" default=\"Moutai Baijiu\"} units arranged in a precise geometric order from the top isometric angle. All products placed at the same isometric top angle, evenly spaced, clean, structured and graphic.\n\n**FRAME 6:**\n{argument name=\"product name\" default=\"Moutai Baijiu\"} levitating slightly tilted on a neutral background that matches the brand color palette. Floating position is angled and intentional, the product is floating naturally in space with dramatic lighting effects.\n\n**FRAME 7:**\nExtreme close-up focusing on specific detail of the {argument name=\"product name\" default=\"Moutai Baijiu\"} - bottle cap seal, material micro-texture, or precision engineering details.\n\n**FRAME 8:**\nThe {argument name=\"product name\" default=\"Moutai Baijiu\"} in an unexpected yet aesthetically strong setting that feels bold, editorial and visually striking. Suspended in the moment of splashing liquor, studio-based and designer-driven, bold composition that elevates the brand.\n\n**FRAME 9:**\nWide composition showing the product in use within a refined lifestyle setup. Clean props, controlled styling, cohesive with the rest of the series, suggesting the product's role in daily life.\n\n**CAMERA & STYLE:**\nUltra high-quality studio imagery with a real camera look. Different camera angles and framings across frames. Controlled depth of field, precise lighting, accurate materials and reflections. dramatic contrast with golden highlights. Lighting logic, color palette, mood and visual language must remain consistent across all nine panels as one cohesive series.\n\n**OUTPUT:**\nA clean 3×3 grid with no borders, no text, no captions and no watermarks.",
-    "title": "Moutai Brand 3x3 Storyboard Design Prompt",
-    "description": "A comprehensive prompt for generating a 3x3 visual storyboard grid showcasing a Moutai liquor bottle in nine distinct, high-end, editorial compositions. It requires an uploaded reference image for strict product identity lock and focuses on material texture, lighting consistency, and design-driven aesthetics across all panels.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1769322348289_ky72ty_G_br_bDacAABZUa.jpg"
-    ],
-    "needReferenceImages": true
   },
   {
     "content": "Create an e-konte (Japanese style storyboard) based on a given scene.",
