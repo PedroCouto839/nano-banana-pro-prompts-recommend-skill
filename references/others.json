@@ -12,6 +12,16 @@
     "needReferenceImages": true
   },
   {
+    "content": "Make something like this but for something else of your choosing",
+    "title": "Generic 'Make Something Like This' Prompt",
+    "description": "A simple, high-level instruction prompt used to generate an image similar in style or concept to a provided reference image, but substituting the main subject with something else chosen by the AI.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841138464_4chc2u_G_4UqfobUAEksJB.jpg",
+      "https://cms-assets.youmind.com/media/1769841138449_3so1pe_G_127r_WgAAPFVO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "Design the world with text and visual prompts",
     "title": "Project Genie World Design Prompt",
     "description": "A high-level description of the prompt mechanism used in 'Project Genie' to design and generate virtual worlds, utilizing Nano Banana Pro for image previews.",

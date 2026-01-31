@@ -51,6 +51,53 @@
     "needReferenceImages": false
   },
   {
+    "content": "Macroeconomic outlook based on the gold-silver ratio: Increased economic activity accompanied by inflation.",
+    "title": "Macroeconomic Outlook Prompt (Inflation and Economic Activity)",
+    "description": "A text generation prompt intended for Gemini Pro and Nanobanana Pro, requesting a macroeconomic outlook based on the gold-silver ratio, focusing on economic activity accompanied by inflation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841146641_g6ab5c_G_-AR5UaYAAPMtf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Clean case-style visual layout.\nStructured grid composition,\nsubtle abstract data cues (lines, blocks, rhythm),\nneutral professional color palette,\nsoft lighting with no dramatic contrast,\ndesigned to feel credible, calm, and serious,\nlike a consulting-grade presentation cover.",
+    "title": "Consulting-Grade Presentation Cover Visual Prompt",
+    "description": "A prompt designed to generate a clean, professional, case-style visual layout suitable for a consulting presentation cover, featuring a structured grid, abstract data cues, a neutral color palette, and soft lighting to convey credibility and seriousness.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841121075_od5eq6_G_dLXpPWAAEUMsL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "[Character Reference Specification]\nMust use the character from the reference image.\nMust depict the same person in all panels.\nFacial features, hairstyle, eye shape, and atmosphere must be perfectly consistent.\nChanging the person, face, or hairstyle is prohibited.\nClothing may change for each day of the week, but the character itself must be the same.\nEven if deformed, the character must be instantly recognizable as the person in the reference image.\n\n[Overall Concept]\nAn anime illustration representing one week from Monday to Sunday,\nin a perfectly circular shape.\n\n[Composition/Layout]\n・The entire circle must be divided into exactly 7 pizza-cut segments.\n・6 or 12 divisions are prohibited.\n・Exactly 7 equal sectors.\n・Infographic-style layout.\n・All 7 panels must connect naturally.\n\n[Order of Days (Strictly Enforced - Clockwise)]\nMONDAY → TUESDAY → WEDNESDAY → THURSDAY → FRIDAY → SATURDAY → SUNDAY → returns to MONDAY\n\n[Circulation Expression]\n・Place a thick circular arrow on the outer circumference of the circle.\n・Clockwise direction.\n・Emphasize that the week repeats infinitely.\n\n[Character Design]\n・Comical anime character with strong deformation.\n・Chibi-style body shape.\n・Large head and small body.\n・Short limbs.\n・Expressions are extreme and gag-oriented.\n・Cute and exaggerated reactions.\n\n[Text Rules]\n・Only English day names are placed in each panel:\n\"MONDAY\", \"TUESDAY\", \"WEDNESDAY\", \"THURSDAY\",\n\"FRIDAY\", \"SATURDAY\", \"SUNDAY\".\n・No dialogue, speech bubbles, or Japanese text whatsoever.\n・Day names must be bold, easy to read, and without distortion.\n・Placed along the shape of each panel.\n\n[Depiction of Each Day]\n\nMONDAY:\nDeformed office worker (OL) in a suit.\nMessy hair, dead eyes.\nHolding two large coffees.\n\nTUESDAY:\nWorking silently on a computer.\nSurrounded by a mountain of documents taller than herself.\n\nWEDNESDAY:\nWorking late overtime.\nDark office, night view outside the window.\nSlumped posture, utterly exhausted.\n\nTHURSDAY:\nComical expression of the soul leaving the mouth.\nA transparent, cute soul floats up from the body.\nDepicting extreme fatigue as a gag.\n\nFRIDAY:\nHigh-tension expression.\nTaking off her jacket,\nHolding a large beer mug overflowing with foam.\nFestive atmosphere.\n\nSATURDAY:\nOut happily with friends in casual clothes.\nEnergetic pose, jumping.\nBright and lively atmosphere.\n\nSUNDAY:\nLying down on the bed as if collapsing.\nThe word \"MONDAY\" is visible on the smartphone screen.\nExaggerated despair.\n\n[Art Style/Quality]\n・Comical anime style with strong deformation.\n・Thick line art.\n・Simple shading.\n・Bright and pop color scheme.\n・Expressions are very easy to understand.\n・High-quality illustration.\n\n[Negative Prompts]\n・Realistic style, photorealistic expression.\n・Changes in character's face or hairstyle.\n・Composition other than 7 divisions.\n・Disruption of the day order.\n・Japanese day names.\n・Dialogue, speech bubbles.\n・Distortion or collapse of text.\n・Square panel division.",
+    "title": "Infographic prompt for 'Monday to Sunday' infinite loop manga",
+    "description": "A detailed, structured prompt for Nano Banana Pro designed to create a comical, anime-style infographic showing the infinite loop of a week, from the despair of Monday to the brief joy of the weekend, using a 7-segment circular pizza-cut layout while strictly maintaining character consistency from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841148842_xua1xc_G_5sN1RbEAADF7D.jpg",
+      "https://cms-assets.youmind.com/media/1769841148758_9h4rw3_G-9LgxnXQAAzOru.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "\"style\": \"ultra_clean_modern\",\n  \"dish\": \"{argument name=\"dish name\" default=\"quick rosemary and cherry tomato focaccia\"}\",\n  \"presentation\": {\n    \"form\": \"sliced into squares\",\n    \"serving\": \"minimal board or plate\",\n    \"perspective\": \"slightly elevated, dynamic angled view\"\n  },\n  \"hero_visual\": {\n    \"main_item\": \"golden dimpled focaccia\",\n    \"toppings\": [\"blistered cherry tomatoes\", \"fresh rosemary\", \"glossy olive oil\"]\n  },\n  \"layout\": {\n    \"ingredients\": \"neatly arranged around main image\",\n    \"steps\": \"step-by-step instructions\",\n    \"tips\": \"helpful cooking tips\"\n  },\n  \"composition\": {\n    \"lighting\": \"bright, appetizing\",\n    \"balance\": \"visually balanced\",\n    \"focus\": \"clarity and modern design\"\n  }",
+    "title": "Ultra-Clean Modern Recipe Infographic for Focaccia",
+    "description": "A structured prompt designed to generate an ultra-clean, modern recipe infographic for quick rosemary and cherry tomato focaccia. It specifies the presentation (sliced, minimal serving board), hero visual details (golden dimpled focaccia, glossy olive oil), and layout requirements (neatly arranged ingredients, step-by-step instructions), aiming for a visually balanced, appetizing, and modern design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841104050_80bhi4_G_5lgyfbAAA6coG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "High-fashion summer outfit infographic with color-coordinated floating elements arranged in an elegant exploded circular composition, featuring a breathable straw hat, sleeveless organic cotton top, fluid pleated skirt, artisan leather sandals, and a woven palm-leaf bag; refined callouts highlight fabric breathability, crisp texture, moisture-wicking, and seasonal comfort, with warm neutral tones of {argument name=\"color palette\" default=\"ivory, terracotta, sand, and soft tan\"}; subtle motion trails and airy fabric swirls suggest a gentle summer breeze, bright natural sunlight creates soft shadows and a sun-kissed glow, Mediterranean gemini lifestyle mood, premium editorial aesthetic, ultra-sharp details, minimal typography, luxury fashion magazine infographic style, Instagram-ready",
+    "title": "High-Fashion Summer Outfit Infographic with Exploded Composition",
+    "description": "A prompt for generating a high-fashion summer outfit infographic using an elegant exploded circular composition. It specifies the clothing items (straw hat, organic cotton top, pleated skirt, leather sandals), color palette (ivory, terracotta, sand), and technical details (refined callouts for fabric properties, ultra-sharp details) to create a luxury fashion magazine aesthetic with a Mediterranean lifestyle mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841112483_v45emh_G_5HlIsbQAA1l3C.jpg",
+      "https://cms-assets.youmind.com/media/1769841112568_3b6msd_G_5HhvbbsAA6nal.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "I am considering getting a pet dog but am still struggling to choose a breed. Please help me generate an infographic that centrally displays the characteristics, temperament, common health issues, and feeding guide for the following potential breeds: {argument name=\"breeds\" default=\"Golden Retriever, Poodle, Corgi\"}. The infographic needs to be clear and easy to compare.",
     "title": "Universal Pet Feeding Guide Generator",
     "description": "This is a text prompt designed for Gemini/NanoBanana Pro to generate a concentrated infographic summarizing the characteristics and care requirements of different pet breeds, specifically dogs, to help in the decision-making process for new pet owners.",
@@ -59,6 +106,26 @@
       "https://cms-assets.youmind.com/media/1769755036137_l69ofs_G_4_OGMaYAAiOFt.jpg",
       "https://cms-assets.youmind.com/media/1769755036185_bf0sws_G_4_OGRbUAEmiYk.jpg",
       "https://cms-assets.youmind.com/media/1769755038117_4ftxb9_G_4_P0-bsAAvhsv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "For NanoBanaPro (via GeminiPro), I define the direction, such as the design structure, in the prompt.\n\nUsing the attached image as the main visual, create an educational manga about Poland based on the following prompt:\n<{argument name=\"Prompt\" default=\"Prompt\"}>",
+    "title": "Creating a Geography Manga about Poland",
+    "description": "A user outlines a structured prompt for Nano Banana Pro (via Gemini Pro) to create a geography manga about Poland. The prompt defines the design structure and uses an attached image as the main visual reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841148331_8x0qd2_G_4XI_sbUAM5MJT.jpg",
+      "https://cms-assets.youmind.com/media/1769841148372_ecxo3q_G_4cjF-a0AAt9br.jpg",
+      "https://cms-assets.youmind.com/media/1769841148543_z7vuf7_G_4XI-haAAAc1aW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Do this for literature: <instruction>\n \nInput A is a Topic with a clear historical progression (e.g., {argument name=\"topic\" default=\"Literature\"}, Medicine, Flight, Computing).\nDeconstruct the history into   4 Vertical Eras  :\n     Level 1 (The Foundation - Bottom):  The Ancient Origin.\n         (e.g., Literature -> Stone Tablets & Scrolls. Flight -> Da Vinci Wings & Kites). \n     Level 2 (The Tradition - Lower Mid):  The Medieval/Renaissance Era.\n         (e.g., Literature -> Scriptorium & Monks. Flight -> Hot Air Balloons). \n     Level 3 (The Revolution - Upper Mid):  The Industrial Age.\n         (e.g., Literature -> Printing Press & Newspapers. Flight -> Propeller Planes). \n     Level 4 (The Horizon - Top):  The Digital/Future Age.\n         (e.g., Literature -> Holographic Data & VR. Flight -> Spacecraft & Ion Thrusters). \n\n  2.  Container (The Rotunda):  \nGoal: \"Museum Installation\" 3D Art.\n     The Object:  A massive, freestanding   Helical Tower Sculpture   standing in a dark museum hall.\n     The Base:  A circular Bronze Plinth with a gold plaque reading: \"THE EVOLUTION OF [{argument name=\"topic\" default=\"INPUT A\"}]\".\n\n  3. The Structure (The Spiral):  \n     The Spine:  A central mechanical or architectural pillar supports the structure.\n     The Ramp:  A continuous, wide   Spiral Ramp   winds upwards around the central pillar (like the Tower of Babel or DNA).\n     The Vignettes:  Along the ramp at each level, detailed   Architectural Dioramas   are built:\n         Bottom:  Stone arches, caves, or temples.\n         Middle:  Timber frames, brick factories, or iron trusses.\n         Top:  Floating glass platforms, laser grids, or cloud computing nodes.\n\n  4. The Narrative Scale (The Population):  \n     Scale:  1:50 Scale Figures.\n     Action:  At every level, figures are actively \"working\" on the technology of their time (e.g., Scribes writing, Mechanics wrenching, Cyborgs interfacing).",
+    "title": "Helical Tower Sculpture Prompt for Visualizing Historical Evolution",
+    "description": "A complex, multi-level prompt designed to visualize the historical progression of a topic (like literature or computing) as a massive, helical tower sculpture in a dark museum setting. It requires deconstructing the topic into four vertical eras, specifying architectural details for each level, and including 1:50 scale figures actively working on the technology of their time, resulting in a detailed 3D museum installation art piece.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841100860_9kd8ng_G_rspWPWMAU1bh6.jpg"
     ],
     "needReferenceImages": false
   },

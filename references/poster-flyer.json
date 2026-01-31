@@ -18,6 +18,70 @@
     "needReferenceImages": false
   },
   {
+    "content": "A high-fashion, editorial-style portrait of {argument name=\"music star\" default=\"[MUSIC_STAR]\"}, captured in a dynamic, low-key studio setting. The lighting is dramatic and cinematic, emphasizing strong shadows and highlights on the subject's face and attire. The star is wearing a custom-designed, avant-garde outfit that reflects their iconic style, with metallic textures and bold silhouettes. The composition is a tight, medium close-up, focusing on the intensity of their gaze. The image should have a rich, saturated color palette with deep blacks and vibrant accents, suitable for a glossy magazine cover or concert poster. Shot on a high-resolution digital camera with a wide-aperture lens (f/1.4), ensuring sharp focus on the eyes and a smooth, creamy bokeh background.",
+    "title": "Poster-Ready Editorial Portrait of a Music Star",
+    "description": "This prompt is designed for the Nano Banana PRO model to generate a professionally polished, poster-ready editorial portrait of a specified music star. The user needs to replace the placeholder with the name of the desired artist.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841156453_kw3v4x_G_7ynAbXEAAXIXp.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ready to stage your favorite music star? \nI’ve designed this prompt to be poster-ready and professionally polished. Just replace [MUSIC_STAR] and let Nano Banana PRO do the rest.",
+    "title": "Music Star Poster Generation Template (Duplicate)",
+    "description": "A template prompt designed to generate a poster-ready, professionally polished image of a favorite music star, requiring the user to replace the [MUSIC_STAR] placeholder. The full prompt is in the attached image (not provided).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841156287_24hne3_G_7ynLgXQAEewsp.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ready to stage your favorite music star? \nI’ve designed this prompt to be poster-ready and professionally polished. Just replace [MUSIC_STAR] and let Nano Banana PRO do the rest.",
+    "title": "Music Star Poster Generation Template",
+    "description": "A template prompt designed to generate a poster-ready, professionally polished image of a favorite music star, requiring the user to replace the [MUSIC_STAR] placeholder. The full prompt is in the attached image (not provided).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841155616_c6ufpt_G_7ydBzW0AAWu4x.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A vibrant, editorial-style caricature illustration of a music legend, capturing them in a moment of high-energy performance. The style should be bold and dynamic, utilizing exaggerated features and expressive lines to convey movement and emotion. The color palette is highly saturated and contrasting, reminiscent of classic rock posters but with a modern, glossy finish. The background is abstract or minimal, focusing all attention on the performer. The lighting is theatrical, with strong spotlights and stage effects. The final image should look like a high-quality, stylized magazine feature.",
+    "title": "Master Prompt for Caricature Art of Music Legends",
+    "description": "A master prompt developed for the Nano Banana PRO model to transform any music legend into a vibrant, editorial-style caricature illustration. This prompt focuses on capturing high-energy performance vibes in the final artwork.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841156727_usf5wa_G_7yZKGXYAA8paI.jpg",
+      "https://cms-assets.youmind.com/media/1769841156798_mwbmkx_G_7yZXFXwAAScW2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A cinematic poster-style artwork featuring an intense close-up of a man’s eyes centered horizontally across the frame. Only the eyes and part of the face are visible through a narrow horizontal strip, surrounded by deep black negative space above and below. The face is illustrated in a high-contrast, graphic-novel style with bold red, black, and orange tones, dramatic shadows, sharp highlights, and a gritty, intense mood.\nThe eyes look fierce, emotional, and determined, with slightly messy hair. Use the provided image for eye reference",
+    "title": "Cinematic Poster Close-up Eye Prompt (Graphic Novel Style)",
+    "description": "A prompt for generating a cinematic poster-style artwork focusing on an intense close-up of a man's eyes. The image is framed by a narrow horizontal strip, using a high-contrast, graphic-novel style with bold red, black, and orange tones and dramatic shadows to create a fierce and emotional mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841098802_fjfhm5_G_6-5-EbAAA_0Vs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "you are a world class visual artist and viral content generator tasked with creating high-concept diorama for poems. For every input, you will find their 4 most famous works, analyze the core identity, the defining artifacts, the atmosphere, characters and the underlying narrative of the subject. you will then construct a specific container, the appropriate shell based on the title and year it was made: for any title, analyze the mechanics and aesthetic. visualize a hollowed-out item. the interior is a diorama of a famous level. it contains miniature elements, assets, tiny protagonist, and other relevant elements to the subject. lighting & style should be appropriate for the title. Output 2x2 grid, each with a diorama of each poem",
+    "title": "Poetry Diorama Generation System Prompt",
+    "description": "A complex system prompt instructing the AI to act as a world-class visual artist to create high-concept dioramas for famous poems. It requires the AI to analyze the core identity of the poem, construct a specific hollowed-out container, and visualize a miniature scene inside, complete with lighting and style appropriate for the title.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841098466_3k8duh_G_t3O_XWQAANv_U.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A surreal cinematic fantasy portrait of a woman’s face emerging from a frozen forest, her skin dusted with snow and glowing embers. One luminous golden eye glowing with mystical energy, ultra-detailed iris. Warm firelight and cold blue ice colliding across her face, snow particles floating in the air. A small cloaked figure standing beside her face inside the forest, adding scale and mystery. Dramatic contrast between fire and ice, ethereal atmosphere, fantasy realism, ultra-sharp facial details, volumetric lighting, shallow depth of field, magical glow, cinematic color grading, hyper-realistic textures, 8K resolution, epic dark fantasy art, movie poster quality.",
+    "title": "Surreal Fantasy Portrait Prompt (Fire and Ice)",
+    "description": "A detailed prompt for generating an epic, hyper-realistic fantasy portrait of a woman emerging from a frozen forest, featuring glowing embers, mystical golden eyes, and dramatic contrast between fire and ice elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841079275_93d2m4_G_5i81NbcAAcKJ8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "{\n  \"prompt\": \"A woman with wet, dark hair crouching down holding a pink lollipop in her left hand, right hand touching her neck with a large ring on her right index finger, wearing a {argument name=\\\"top color\\\" default=\\\"red\\\"} tube top, denim jacket, denim shorts, and tall red platform boots, large white 3D letters spelling \\\"SYDNEY\\\" in the foreground, background gradient of pink and blue\",\n  \"subject\": \"woman with wet dark hair crouching, holding a pink lollipop\",\n  \"environment\": \"studio-like gradient background of pink and blue\",\n  \"style\": \"realistic photo\",\n  \"lighting\": \"soft, even studio lighting emphasizing colors\",\n  \"camera\": {\n    \"angle\": \"eye-level\",\n    \"distance\": \"medium shot\",\n    \"depth_of_field\": \"shallow\",\n    \"focus\": \"on the woman's face, lollipop, and the large \\\"SYDNEY\\\" letters in the foreground\"\n  },\n  \"composition\": {\n    \"framing\": \"centered subject with foreground element\",\n    \"subject_placement\": \"woman centered, crouching slightly off-center to accommodate foreground text\",\n    \"foreground\": \"large white 3D letters spelling \\\"SYDNEY\\\" occupying lower third of frame\",\n    \"background\": \"smooth pink-to-blue gradient, clean and uncluttered\",\n    \"negative_space\": \"even color gradient around subject and letters to keep composition clean and text-free aside from \\\"SYDNEY\\\"\"\n  },\n  \"mood\": \"playful and bold\",\n  \"color_palette\": [\n    \"pink\",\n    \"blue\",\n    \"red\",\n    \"white\",\n    \"denim blue\"\n  ],\n  \"technical\": {\n    \"render_type\": \"photo\"\n  }\n}",
     "title": "Playful Portrait with Foreground Text and Gradient Background",
     "description": "A structured prompt for a realistic photo of a woman crouching down, holding a pink lollipop, wearing a red tube top and denim. The composition is defined by large white 3D letters spelling \"SYDNEY\" in the foreground and a clean pink-and-blue gradient background, emphasizing soft studio lighting and a playful, bold mood.",

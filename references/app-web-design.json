@@ -1,5 +1,14 @@
 [
   {
+    "content": "Clean case-style visual layout.\nStructured grid composition,\nsubtle abstract data cues (lines, blocks, rhythm),\nneutral professional color palette,\nsoft lighting with no dramatic contrast,\ndesigned to feel credible, calm, and serious,\nlike a consulting-grade presentation cover.",
+    "title": "Consulting-Grade Presentation Cover Visual Prompt",
+    "description": "A prompt designed to generate a clean, professional, case-style visual layout suitable for a consulting presentation cover, featuring a structured grid, abstract data cues, a neutral color palette, and soft lighting to convey credibility and seriousness.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841121075_od5eq6_G_dLXpPWAAEUMsL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Minimal abstract illustration.\nFlat but layered vector-style shapes,\nprecise curves, consistent stroke logic,\nlimited color palette with high harmony,\nbalanced spacing and alignment,\ndesigned to feel systemized and scalable,\nlike a mature brand illustration set.",
     "title": "Minimal Abstract Vector Illustration Style",
     "description": "A prompt designed for generating premium, systemized abstract illustrations. It specifies the use of flat, layered vector-style shapes, precise curves, consistent stroke logic, a limited color palette with high harmony, and balanced alignment, suitable for mature brand illustration sets.",

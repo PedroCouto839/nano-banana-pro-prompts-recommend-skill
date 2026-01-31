@@ -1,5 +1,122 @@
 [
   {
+    "content": "Create a high-quality 3D avatar of the person in the uploaded image with a cheerful, expressive face. The character should have a warm smile, bright eyes, and soft facial features that feel friendly and approachable. Render in a Pixar-style aesthetic with smooth textures, subtle skin shading, and slightly exaggerated proportions for a cute, animated look. Lighting should be soft and even, creating a clean studio look with gentle shadows for depth.",
+    "title": "Pixar-Style 3D Avatar Generation Prompt",
+    "description": "A prompt for transforming an uploaded image into a high-quality 3D avatar using a Pixar-style aesthetic. It specifies a cheerful expression, smooth textures, and soft, even studio lighting for a friendly and approachable animated look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841089547_shbg08_G_75rXTXEAAa6pT.jpg",
+      "https://cms-assets.youmind.com/media/1769841089559_3dgk42_G_75rXPXcAAFjaX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "\"A mage academy on a floating island\"",
+    "title": "Simple Floating Mage Academy Prompt",
+    "description": "A very simple, short prompt used to generate a fantasy image of a mage academy located on a floating island.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841127999_r8phua_G_6xCawawAA8fu-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra-detailed 3D chibi-style character with a big head and expressive eyes, cute proportions, smooth stylized skin, friendly smile. The character is casually leaning against a small green off-road Jeep, holding a takeaway coffee cup. Cozy outdoor café courtyard setting with wooden tables, potted plants, warm string lights in the background. Soft golden-hour lighting, shallow depth of field, cinematic bokeh. High-quality Pixar-style 3D render, vibrant colors, clean textures, adorable yet realistic character design, professional character illustration, 8K render.",
+    "title": "Pixar-Style Chibi Character Prompt",
+    "description": "A detailed prompt for generating a cute, ultra-detailed 3D chibi character in the style of Pixar, set in a cozy outdoor café courtyard during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841071870_bmwb2u_G_6lq_FbMAA3d-O.jpg",
+      "https://cms-assets.youmind.com/media/1769841071930_uwc3wq_G_6lq_mbgAAnp1H.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"vibe_title_en\": \"Bioluminescent Archivist\",\n  \"master_prompt\": \"A hyper-realistic, cinematic close-up of The Protagonist situated in a claustrophobic, cluttered exo-botany research station. The subject looks directly into the lens with a piercing, intense gaze. The skin is textured with hyper-detailed 'practical effect' glowing veins and circuitry patterns that emit a soft cyan luminescence, appearing as applied UV-reactive makeup rather than CGI. Sweat and humidity are visible on the pores. The shoulders are encased in a rough, tactile armor made of slate shards and woven fiber-optic cables. The background is an incredibly busy, dense mess of hanging alien flora, dripping condensation, scattered glass specimen jars, and disorganized research notes, creating a 'lived-in' scientific chaos. Lighting is a dramatic mix of cool cyan ambient bioluminescence and a sharp magenta rim light cutting through the volumetric haze. Shot on a Hasselblad H6D-100c with an 80mm f/1.9 lens to capture the micro-texture of the glowing skin against the cluttered depth.\",\n  \"meta\": {\n    \"intent\": \"Cinematic Portraiture\",\n    \"priorities\": \"Photorealism, Texture, Surreal Lighting\",\n    \"device_profile\": \"Hasselblad H6D-100c\"\n  },\n  \"frame\": {\n    \"aspect\": \"4:5\",\n    \"composition\": \"Centralized close-up with cluttered depth layering\",\n    \"layout\": \"Portrait\",\n    \"camera_angle\": \"Eye-level, slightly angled\",\n    \"tilt_roll_degrees\": \"0\"\n  },\n  \"subject\": {\n    \"gender\": \"Female\",\n    \"identity\": \"The Protagonist\",\n    \"demographics\": \"Universal/Ambiguous\",\n    \"face\": \"Intense gaze, hyper-realistic skin texture, wetness from humidity\",\n    \"hair\": \"Braided or textured, interwoven with thin wires or vines\",\n    \"body\": \"Shoulders visible, posture tense\",\n    \"expression\": \"Piercing, mysterious, focused\",\n    \"pose\": \"Direct engagement with the lens, slight turn of the head\"\n  },\n  \"wardrobe_accessories\": {\n    \"garments\": [\n      {\n        \"item\": \"Symbiotic Armor\",\n        \"material\": \"Slate, Rock, Fiber-optics\",\n        \"color\": \"Dark Grey with Cyan accents\",\n        \"fit\": \"Structured, Organic fit\"\n      }\n    ],\n    \"accessories\": [\n      {\n        \"item\": \"Embedded Circuitry Makeup\",\n        \"color\": \"{argument name=\"makeup color\" default=\"Glowing Cyan/Blue\"}\",\n        \"material\": \"UV Reactive Paint/Prosthetic\",\n        \"brand_style\": \"Sci-Fi Practical Effect\"\n      }\n    ]\n  },\n  \"environment\": {\n    \"setting\": \"Subterranean Exo-Botany Lab\",\n    \"surfaces\": \"Glass, wet metal, organic leaves, paper stacks\",\n    \"depth\": \"Shallow depth of field, cluttered bokeh\",\n    \"atmosphere\": \"Humid, hazy, dripping wet\",\n    \"lens_interaction\": \"Slight condensation on lens, blooming highlights\"\n  },\n  \"lighting\": {\n    \"key\": \"Soft Cyan Bioluminescence (from subject/plants)\",\n    \"fill\": \"Deep Blue ambient\",\n    \"rim\": \"Sharp Magenta/Pink kicker light\",\n    \"shadows\": \"Deep, crushed blacks for contrast\",\n    \"color_temperature\": \"Cool (3200K mixe\"\n  }\n}",
+    "title": "Bioluminescent Archivist Sci-Fi Portrait Prompt",
+    "description": "A highly detailed JSON prompt for generating a hyper-realistic, cinematic sci-fi portrait of a subject (The Protagonist) in a cluttered exo-botany research station, featuring glowing cyan veins (practical effect makeup) and dramatic magenta rim lighting, simulating a Hasselblad camera shot.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841086021_5gdkxt_G_6HraKXQAAmZ_0.jpg",
+      "https://cms-assets.youmind.com/media/1769841086089_1k9j77_G_6HrdTXUAAF-BK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"subject\": \"{argument name=\"fruit name\" default=\"Fruit name\"}\",\n  \"features\": [\"button nose\", \"leaf hat\", \"blushed cheeks\"],\n  \"material_properties\": {\n    \"texture\": \"soft_plush\",\n    \"finish\": \"velvety\",\n    \"tactile_feel\": \"squeezable\"\n  },\n  \"render_settings\": {\n    \"style\": \"3D_model_stylized\",\n    \"composition\": \"centered\",\n    \"lighting\": \"soft_studio\",\n    \"background\": \"clean_minimalist\"\n  },\n  \"metadata\": {\n    \"aspect_ratio\": \"3:2\",\n    \"model_version\": \"v7\"\n  }\n}",
+    "title": "3D Plush Fruit Character Template",
+    "description": "A structured JSON template for generating a stylized 3D model of a fruit character, specifying plush texture, a button nose, a leaf hat, and a clean, minimalist studio background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841131157_iqp1n0_G_6FqjpbcAA7YBT.jpg",
+      "https://cms-assets.youmind.com/media/1769841131467_0io8n0_G_6FqjpaoAAHNEr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Subject Description: A cinematic female warrior inspired by {argument name=\"inspiration\" default=\"Mulan\"}, strong, noble, and restrained beauty, calm yet determined expression\n Outfit: Elegant red ancient Chinese warrior costume inspired by traditional Han-style armor and flowing fabrics, minimal ornamentation, realistic textile texture, battle-worn yet refined\n Detail/Prop: Holding a long steel sword firmly in hand, simple and practical design, subtle reflections on the blade, heroic stance\n Setting: Quiet forest at early morning, soft mist among tall trees, muted natural colors, cinematic depth\n Style & Mood: High-end cinematic fantasy, realistic lighting, dramatic shadows, film still, epic yet poetic atmosphere, 35mm film look, cinematic color grading",
+    "title": "Cinematic Female Warrior Portrait Prompt",
+    "description": "A highly detailed prompt for generating a standard, mid-shot portrait of a female warrior inspired by Mulan, emphasizing cinematic quality, realistic textures, dramatic lighting, and a specific mood for high-end fantasy imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841144301_1v0smy_G_6AVtEbkAA1xxd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Illustrate [SUBJECT] in one clear, static pose. Reduce clothing and anatomy to basic forms. Use soft lighting and restrained color palette. The figure should feel modern and design-led.",
+    "title": "Minimalist Single-Pose Character Illustration Prompt",
+    "description": "A prompt template for creating modern, design-led character illustrations in a single, static pose, instructing the AI to simplify anatomy and clothing, and use soft lighting with a restrained color palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841126234_16880h_G_519J7aIAAmG8T.jpg",
+      "https://cms-assets.youmind.com/media/1769841126237_rsdo0k_G_519H-aAAAXHDC.jpg",
+      "https://cms-assets.youmind.com/media/1769841126216_mxuhyn_G_519HFaAAA_G3u.jpg",
+      "https://cms-assets.youmind.com/media/1769841126767_bm0037_G_519NRbMAAXacQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a high-quality 3D virtual avatar based on the image, using the Pixar style aesthetic, with a cheerful facial expression and soft studio lighting...",
+    "title": "Pixar Style 3D Avatar Generation Prompt",
+    "description": "A prompt shared for use with Gemini Nano Banana Pro to transform a user's avatar into a high-quality 3D virtual character using the Pixar aesthetic. It emphasizes a cheerful expression, warm smile, and soft studio lighting for a friendly, approachable look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841145146_m488w5_G_5cCBtbUAUln7v.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"subject\": {\n    \"type\": \"anthropomorphic bunny\",\n    \"species\": \"rabbit\",\n    \"gender\": \"not specified\",\n    \"age_representation\": \"childlike / cartoon-styled\",\n    \"pose\": \"standing on hind legs with one leg lifted forward, one arm raised upward, the other arm slightly bent outward\",\n    \"expression\": \"happy, joyful, open-mouthed smile\",\n    \"emotion\": \"cheerful, playful\"\n  },\n  \"head_and_face\": {\n    \"head_shape\": \"round and fluffy\",\n    \"fur_color\": \"pure white\",\n    \"fur_texture\": \"very soft, dense, fluffy, fine strands visible\",\n    \"eyes\": {\n      \"size\": \"very large\",\n      \"shape\": \"round\",\n      \"color\": \"blue with darker outer ring\",\n      \"pupils\": \"large black pupils\",\n      \"eye_style\": \"glossy, reflective, cartoon-like\"\n    },\n    \"nose\": {\n      \"size\": \"small\",\n      \"shape\": \"rounded\",\n      \"color\": \"soft pink\"\n    },\n    \"mouth\": {\n      \"state\": \"open\",\n      \"shape\": \"small rounded opening\",\n      \"inner_color\": \"dark pink\",\n      \"teeth\": \"not visible\"\n    },\n    \"cheeks\": {\n      \"shape\": \"puffy\",\n      \"tint\": \"light pink blush\"\n    }\n  },\n  \"ears\": {\n    \"count\": 2,\n    \"position\": \"upright\",\n    \"shape\": \"long and slightly curved\",\n    \"outer_fur\": \"white and fluffy\",\n    \"inner_ear_color\": \"light pink\",\n    \"accessory\": {\n      \"type\": \"small hair band\",\n      \"color\": \"red\",\n      \"placement\": \"wrapped around one ear\"\n    }\n  },\n  \"body\": {\n    \"proportions\": \"chubby, small torso with oversized head\",\n    \"fur_color\": \"white\",\n    \"fur_texture\": \"plush, soft, evenly groomed\"\n  },\n  \"clothing\": {\n    \"outfit_type\": \"overalls\",\n    \"material_appearance\": \"soft fabric with visible texture\",\n    \"color\": \"{argument name=\"overalls color\" default=\"yellow\"}\",\n    \"design\": {\n      \"straps\": 2,\n      \"buttons\": {\n        \"count\": 2,\n        \"shape\": \"round\",\n        \"color\": \"pink\",\n        \"decoration\": \"flower-shaped\"\n      }\n    },\n    \"fit\": \"loose and rounded around the belly\"\n  },\n  \"limbs\": {\n    \"arms\": {\n      \"count\": 2,\n      \"fur_color\": \"white\",\n      \"pose\": {\n        \"left_arm\": \"raised upward in a waving gesture\",\n        \"right_arm\": \"slightly bent outward\"\n      },\n      \"paws\": {\n        \"shape\": \"small and rounded\",\n        \"pads_color\": \"light pink\"\n      }\n    },\n    \"legs\": {\n      \"count\": 2,\n      \"pose\": {\n        \"support_leg\": \"standing firmly on ground\",\n        \"raised_leg\": \"lifted forward in playful motion\"\n      },\n      \"feet\": {\n        \"shape\": \"rounded\",\n        \"pads_color\": \"light pink\"\n      }\n    }\n  },\n  \"background\": {\n    \"type\": \"solid color\",\n    \"color\": \"{argument name=\"background color\" default=\"coral / warm reddish-pink\"}\",\n    \"texture\": \"smooth, gradient-free\"\n  },\n  \"lighting\": {\n    \"type\": \"soft studio lighting\",\n    \"direction\": \"even frontal lighting\",\n    \"shadows\": \"soft and subtle beneath the feet\",\n    \"highlights\": \"gentle highlights on fur and eyes\"\n  },\n  \"render_style\": {\n    \"style\": \"3D animated character\",\n    \"realism_level\": \"stylized realism\",\n    \"fur_detail\": \"high strand\"",
+    "title": "3D Anthropomorphic Bunny Character Prompt",
+    "description": "A structured prompt for generating a 3D animated, stylized-realistic image of a cheerful, chubby anthropomorphic white bunny wearing yellow overalls, focusing on fluffy fur detail, large glossy eyes, and soft studio lighting against a solid color background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841054113_hwvz6c_G_5JMpkbYAAuBiq.jpg",
+      "https://cms-assets.youmind.com/media/1769841054123_us53ny_G_5JMj6bgAAkedX.jpg",
+      "https://cms-assets.youmind.com/media/1769841054180_fpre49_G_5JMvjbUAgHbCh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a high-quality 3D virtual avatar based on the uploaded image, with a cheerful and expressive facial expression. The character should have a warm smile, bright eyes, and soft facial features, giving a friendly and approachable feeling. Adopt the {argument name=\"style\" default=\"Pixar style aesthetic\"}, featuring smooth textures, subtle skin shading, and slightly exaggerated proportions to present a cute animated effect. The lighting should be soft and uniform, creating a clean studio effect, with soft shadows adding depth.",
+    "title": "Detailed Pixar Style 3D Avatar Generation Prompt",
+    "description": "A detailed prompt for Gemini Nano Banana Pro to convert an uploaded image into a 3D virtual avatar. It specifies a Pixar style aesthetic, focusing on a warm, friendly expression, smooth textures, subtle skin shading, and slightly exaggerated proportions, rendered under soft, uniform studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841146479_1je0ph_G_4TLNtbUAEgYeg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Ultra-realistic cinematic gym scene featuring a small tan-and-white hamster wearing a beige baseball cap, silver over-ear headphones, and a white lifting belt.\nScene opens with the barbell resting fully on the ground on a worn wooden lifting platform. The hamster is in a proper deadlift stance — feet planted wide, paws gripping the bar, back straight, head slightly lifted forward.\n0–4 seconds:\nSlow, dramatic buildup. The hamster struggles to initiate the lift — muscles tense, fur slightly trembling, paws tightening on the bar. Subtle body shake, controlled strain, deep focus. No camera shake. No text. No flashy effects.\n4–8 seconds:\nThe hamster successfully deadlifts the barbell in one smooth, powerful motion, lifting it from the floor to full standing lockout. Chest up, shoulders back, bar held firmly at hip level. The effort turns into quiet triumph.\nCinematic low front angle throughout to exaggerate scale and power.\nShallow depth of field with a modern gym environment softly blurred in the background.\nCool neutral gym lighting with realistic reflections on metal plates and soft shadows on the floor.\nStyle:\nHyper-realistic, premium movie realism, high contrast, clean motion, no distortion, no surreal physics, no bar intersecting the body, no camera jumps, no visual noise.\nEmotional tone: determination → victory.",
+    "title": "Cinematic Hamster Deadlift Video Prompt",
+    "description": "A detailed video generation prompt for creating an ultra-realistic, cinematic scene of a small hamster performing a deadlift in a gym, focusing on slow, dramatic buildup, hyper-realistic style, and low-angle perspective to exaggerate the scale and power.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841061930_pz7k29_G_4D2G2bUAIrT_E.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Futuristic Samurai Warrior w/ Carbon-Fiber Prosthetics",
+    "title": "Character Design Prompt for Futuristic Samurai Warrior",
+    "description": "A prompt for generating a character design of a Futuristic Samurai Warrior, specifically detailing the inclusion of Carbon-Fiber Prosthetics, suggesting a blend of traditional Japanese armor aesthetics with high-tech, cybernetic elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841116660_i86liu_G_39C9hbUAUdqzr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "POV Raw Fisheye Pokemon Wildlife",
     "title": "Short Prompt for POV Fisheye Pokemon Wildlife",
     "description": "A very short, stylistic prompt combining POV, Raw, Fisheye lens effects with the subject matter of Pokemon Wildlife.",
